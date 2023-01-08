@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 255, 255);
+}
+
+.one{
+    border: 3px solid rgb(161, 54, 54);
+    width: 1000px;
+    height:auto;
+    margin-left:300px;
+}
+.header{
+    text-align: center;
+    background-color:white;
+}
+.header img{
+    margin-top:20px;
+}
+.header h1{
+    background-color: rgb(255, 255, 255);
+}
+.body{
+    text-align: center;
+}
+.resume{
+    display: flex;
+    background-color: white;
+   
+}
+.resume1{
+    border-right:2px solid black;
+    padding:20px;
+   width: 50%;
+   
+}
+.resume2{
+    width:50%;
+    padding:20px;
+}
